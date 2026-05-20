@@ -1,3 +1,10 @@
+texto = "Apendendo linguagem Python"
+inteiro = 67
+decimal = 10.90
+boolean = True
+
+
+
 # Lista
 a = ["food","bus","pc","music"]
 print(a)
