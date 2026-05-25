@@ -21,6 +21,3 @@ Praticar programação, evoluir minhas habilidades em Python e organizar meus es
 Tutorial principal utilizado nos estudos:
 https://youtu.be/ix9cRaBkVe0?si=A5BTQxfgSueciqvv
 
-👨‍💻 Autor
-
-Rafael Ferrete
