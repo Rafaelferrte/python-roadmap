@@ -19,4 +19,4 @@ Praticar programação, evoluir minhas habilidades em Python e organizar meus es
 📖 Referência
 
 Tutorial principal utilizado nos estudos:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ix9cRaBkVe0?si=F76j8HWis2aS2zP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtu.be/ix9cRaBkVe0?si=A5BTQxfgSueciqvv
